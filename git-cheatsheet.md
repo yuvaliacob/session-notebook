@@ -15,6 +15,9 @@ git add .
 // to do a commit
 git commit -m "<comment>"
 
+// to upload changes to remote git (to GitHub)
+git push
+
 // commit from branch to main
 git push origin main
 
