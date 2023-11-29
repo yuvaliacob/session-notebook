@@ -24,6 +24,9 @@ git log
 // to change the connected remote repository
 git remote set-url origin <repository URL>
 
+// to remove connected repository
+git remote remove origin
+
 git pull
 
 // create new git branch
