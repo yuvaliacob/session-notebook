@@ -18,3 +18,6 @@ git push origin <NAME of BRANCH>
 
 // shows branch/commit history
 git log --graph
+
+// list all branches (local and remote)
+git branch -a
