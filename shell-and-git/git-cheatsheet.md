@@ -1,4 +1,7 @@
-// A list of git commands
+// A list of git commands and tips
+
+GitHub and Markdown Tips
+https://github.com/spiced-academy/coriander-web-dev/blob/main/sessions/github-and-markdown/github-and-markdown.md
 
 // To turn a folder into a git repository
 git init
@@ -49,3 +52,12 @@ git push origin <NAME of BRANCH>
 
 // shows branch/commit history
 git log --graph
+
+// Good commit messages
+
+- Be short and descriptive
+- Always use english
+- The first word should be a verb: "add", "fix", "remove", etc.
+- Use imperative and present tense: "add shop page" instead of "added shop page"
+- Do not end your commit message with a period
+- When in doubt, describe why you did something instead of how: "fix typo" instead of "replaced the letter a with an e in the second word"
